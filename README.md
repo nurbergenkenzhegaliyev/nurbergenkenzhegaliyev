@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi! I am Nurbergen Kenzhegaliyev. 
+### Currently starting making my own Web Dev pet-projects.
+### 
+### - 🔭 I’m currently working on Albion Crafter web application.
+### - 🌱 I’m currently learning React, Redux, MongoDB, Node, Express
+### - 📫 How to reach me: nurbergen.kenzhegaliyev@gmail.com
 <!--
 **nurbergenkenzhegaliyev/nurbergenkenzhegaliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
